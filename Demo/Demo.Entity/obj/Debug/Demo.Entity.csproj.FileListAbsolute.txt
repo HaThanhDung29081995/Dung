@@ -1,0 +1,10 @@
+D:\c#\Demo\Demo.Entity\bin\Debug\Demo.Entity.dll.config
+D:\c#\Demo\Demo.Entity\bin\Debug\Demo.Entity.dll
+D:\c#\Demo\Demo.Entity\bin\Debug\Demo.Entity.pdb
+D:\c#\Demo\Demo.Entity\bin\Debug\EntityFramework.dll
+D:\c#\Demo\Demo.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\Demo\Demo.Entity\bin\Debug\EntityFramework.xml
+D:\c#\Demo\Demo.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\Demo\Demo.Entity\obj\Debug\Demo.Entity.csprojResolveAssemblyReference.cache
+D:\c#\Demo\Demo.Entity\obj\Debug\Demo.Entity.dll
+D:\c#\Demo\Demo.Entity\obj\Debug\Demo.Entity.pdb

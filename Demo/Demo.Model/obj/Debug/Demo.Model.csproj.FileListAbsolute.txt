@@ -1,0 +1,4 @@
+D:\c#\Demo\Demo.Model\bin\Debug\Demo.Model.dll
+D:\c#\Demo\Demo.Model\bin\Debug\Demo.Model.pdb
+D:\c#\Demo\Demo.Model\obj\Debug\Demo.Model.dll
+D:\c#\Demo\Demo.Model\obj\Debug\Demo.Model.pdb
