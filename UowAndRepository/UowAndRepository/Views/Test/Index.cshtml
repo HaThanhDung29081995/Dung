@@ -1,0 +1,36 @@
+﻿@model List<UowAndRepository.Models.Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>
+                    <a class="btn btn-sm btn-default" href="/Test/Edit/@item.Id">
+                        <span class="glyphicon glyphicon-star"></span> Edit
+                    </a>
+                    <a class="btn btn-sm btn-default" href="/Test/Delete/@item.Id">
+                        <span class="glyphicon glyphicon-star"></span> Delete
+                    </a>
+                </td>
+            </tr>
+
+        }
+
+    </tbody>
+</table>
+
